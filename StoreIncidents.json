@@ -92,7 +92,7 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 350,
+		"price": 150,
 		"karmatype": "Good"
 	},
 	{
@@ -267,7 +267,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 10000,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
