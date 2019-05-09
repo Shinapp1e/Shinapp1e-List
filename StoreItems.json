@@ -1,25 +1,25 @@
 {
 	"items" : [
 	{
-		"abr": ""fullmuffaloon"rug",
+		"abr": "fullmuffaloonrug",
 		"price": 792,
 		"category": "Art",
 		"defname": "MedTimes_Rug_Muffalo"
 	},
 	{
-		"abr": ""revengecat"",
+		"abr": "revengecat",
 		"price": 203,
 		"category": "Art",
 		"defname": "MedTimes_RevengeCat"
 	},
 	{
-		"abr": ""thegentleman"",
+		"abr": "thegentleman",
 		"price": 203,
 		"category": "Art",
 		"defname": "MedTimes_Gentleman"
 	},
 	{
-		"abr": ""tribals"rug",
+		"abr": "tribalsrug",
 		"price": 700,
 		"category": "Art",
 		"defname": "MedTimes_Rug_Tribal"
